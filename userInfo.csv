@@ -1,0 +1,12 @@
+Username,Password,Email,Friends,Requests,Status
+test_user,test_password,test@gmail.com,none,none,false
+mattS2,asdfjkl;,j@j.com,jjj jibby madhava jj@j.com jib2 j,none,false
+jib2,asdfjkl;,jib2@gmail.com,jjj johnB mattS2,none,true
+jjj,asdfjkl;,jjj@,jib2 mattS2 jibby,none,false
+jibby,qwertypoiu,j@uic.edu,mattS2 jjj,none,true
+johnB,asdfjkl,jb@uic.com,jib2,jibby,false
+madhava,12345678,m@m.com,mattS2,jibby,false
+mama,asdfjkl;,as@m.com,none,none,false
+jaja,asdfjkl;,j@jj.com,none,none,false
+j,asdfjkl;,j@jjj.com,mattS2,mattS2,false
+jj@j.com,asdfjkl;,jj@jj.com,mattS2,none,false
