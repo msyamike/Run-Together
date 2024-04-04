@@ -1,13 +1,2 @@
-This directory should hold all files related to the Coding project.
-
-The Adventure Game Scenario is provided as a sample of a good scenario.
-It has a clear meaningful title describing THIS scenario for THIS project.
-The group number and members are clearly listed.
-It clearly describes what one expects to see when the release is demonstrated.
-Please follow a similar format when writing your scenarios. ( 2 pages, margins, fonts, etc. )
-
-Note:  Please DO NOT store entire development libraries in the code repository that you 
-did not develop yourselves, especially if they can be easily downloaded from the Internet.
-Instead include a ReadMe file documenting instructions for how to download such libraries.
-Include here files that your group either created or edited, and instructions on how and where
-to get anything else that may be needed to build your project.
+Run Together is an app that focuses on combining personal fitness and social networking functionalities. It is meant to be used by users who participate in group running to communicate with friends and it allows them to also track their running data. 
+Users can find groups and friends through the following methods: in-app, Facebook, or SMS searches. The app will allow the users to schedule runs with their friends and groups though the chat poll features. The app focuses on synchronous group activities, but it also allows users to run in individually so users can use the same app everyday. By being able to run with friends, users will be able to reach their running goals by holding each other accountable to a schedule. Whether users go out for runs individually or in a group, they can set challenges or run-in charity runs.
